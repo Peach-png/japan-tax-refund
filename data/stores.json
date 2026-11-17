@@ -1,0 +1,14 @@
+{
+  "updated": "2026-11-17",
+  "stores": [
+    {"name": "Don Quijote (Donki)", "operator": "Not published", "fee": "0% (store says no processing fee)", "fee_pct": 0, "status": "reported"},
+    {"name": "Bic Camera", "operator": "J&J Tax Free (reported)", "fee": "0% on card refunds (reported, not on Bic's site)", "fee_pct": 0, "status": "reported"},
+    {"name": "Uniqlo", "operator": "J&J Tax Free", "fee": "About 10% of the refund", "fee_pct": 10, "status": "reported"},
+    {"name": "Yodobashi Camera", "operator": "Global Blue", "fee": "Not published", "fee_pct": null, "status": "unknown"},
+    {"name": "Hankyu / Hanshin dept. stores", "operator": "Global Blue", "fee": "Not published", "fee_pct": null, "status": "unknown"}
+  ],
+  "sources": [
+    {"title": "JNTO: Everything you need to know about Japan's new tax-free shopping system", "url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system"},
+    {"title": "KIX Duty Free: Japan's new tax refund system", "url": "https://www.kixdutyfree.jp/en/tax_refund_japan_new_info.html"}
+  ]
+}
